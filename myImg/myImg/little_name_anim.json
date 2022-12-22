@@ -1,0 +1,56 @@
+{
+    "anims": [
+        {
+            "key": "face",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1,
+            "frames": [
+                {
+                    "key": "little_name",
+                    "frame": "ayana2"
+                }
+            ]
+        },
+        {
+            "key": "behind",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1,
+            "frames": [
+                {
+                    "key": "little_name",
+                    "frame": "ayana_behind"
+                }
+            ]
+        },
+        {
+            "key": "stay",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1,
+            "frames": [
+                {
+                    "key": "little_name",
+                    "frame": "ayana_стои¸"
+                }
+            ]
+        },
+        {
+            "key": "walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 3,
+            "frames": [
+                {
+                    "key": "little_name",
+                    "frame": "ayana_ходит1(3)"
+                },
+                {
+                    "key": "little_name",
+                    "frame": "ayana_ходит2(3)"
+                }
+            ]
+        }
+    ]
+}
